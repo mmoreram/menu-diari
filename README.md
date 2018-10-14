@@ -11,8 +11,10 @@ Benvinguts al seu menú diari. Aquí podrà trobar una guia específicament diss
 - [Diumenge](diumenge.md)
 
 En aquest projecte pot:
+- [Crear un compte](crear-compte.md)
 - [Veure un exemple de menú](exemple.md)
-- [Crear una nova proposta](crea-proposta.md)
+- [Crear una nova proposta](crear-proposta.md)
+- [Veure llistades les propostes existents](https://github.com/mmoreram/menu-diari/pulls)
 - [Debatre les propostes existents]()
 - [Votar les propostes existents]()
 - [Consultar la nostra secció de preguntes i respostes]()

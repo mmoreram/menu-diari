@@ -1,4 +1,4 @@
-# Crea una proposta
+# Crea una nova proposta
 
 Aquest sistema democràtic permet que qualsevol persona pugui proposar un canvi 
 al document final exposat. Amb 3 senzills passos, els administradors del 
@@ -16,13 +16,13 @@ document que vols canviar. Aquest, per norma general, i si el que vols canviar
 és el menú d'un dels dies, el trobaràs amb el nom literal del dia, acabat amb la 
 extensió `.md`. Aquí us posem un llistat dels arxius.
 
-- [Dilluns](dilluns.md)
-- [Dimarts](dimarts.md)
-- [Dimecres](dimecres.md)
-- [Dijous](dijous.md)
-- [Divendres](divendres.md)
-- [Dissabte](dissabte.md)
-- [Diumenge](diumenge.md)
+- [Dilluns](https://github.com/mmoreram/menu-diari/blob/master/dilluns.md)
+- [Dimarts](https://github.com/mmoreram/menu-diari/blob/master/dimarts.md)
+- [Dimecres](https://github.com/mmoreram/menu-diari/blob/master/dimecres.md)
+- [Dijous](https://github.com/mmoreram/menu-diari/blob/master/dijous.md)
+- [Divendres](https://github.com/mmoreram/menu-diari/blob/master/divendres.md)
+- [Dissabte](https://github.com/mmoreram/menu-diari/blob/master/dissabte.md)
+- [Diumenge](https://github.com/mmoreram/menu-diari/blob/master/diumenge.md)
 
 Un cop dins, veureu a la barra del document, un icone d'edició semblant a aquest
 :pencil:. Simplement cal que l'apreteu i entrareu en una pàgina amb el mateix 
@@ -80,4 +80,4 @@ el màxim de participació possible.
 
 [edita-document]: img/edita-document.png "Edita un document"
 [crea-proposta]: img/crea-proposta.png "Crea una proposta"
-[crea-proposta-final]: img/crea-proposta-final.png "Crea una proposta"
+[crea-proposta-final]: img/crea-proposta-final.png "Crea la proposta final"

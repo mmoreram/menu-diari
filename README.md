@@ -12,7 +12,7 @@ Benvinguts al seu menú diari. Aquí podrà trobar una guia específicament diss
 
 En aquest projecte pot:
 - [Veure un exemple de menú](exemple.md)
-- [Crear una nova proposta]()
+- [Crear una nova proposta](crea-proposta.md)
 - [Debatre les propostes existents]()
 - [Votar les propostes existents]()
 - [Consultar la nostra secció de preguntes i respostes]()

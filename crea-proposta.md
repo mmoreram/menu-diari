@@ -65,6 +65,17 @@ Un cop revisar, el pas final. Trobaràs un botó on hi trobaràs escrit
 
 ![Crea proposta final][crea-proposta-final]
 
+Felicitats. Ja tens publicada la teva petició de canvi. Ara tocarà esperar a que
+la gent interactui amb ella. Tingues present que, sempre tenint en compte el
+nostre codi ètic de participació i el respecte com a base, molt probablement la
+teva proposta no estarà lliure de debat, crítica constructiva i persones que no
+hi estaran d'acord. Defensa la teva proposta amb respecte i ajuda a que el debat
+sigui ric i positiu.
+
+Per a un futur, trobaràs la teva proposta juntament amb totes les demés al 
+[llistat de propostes de canvis](https://github.com/mmoreram/menu-diari/pulls).
+Participa en les demés propostes i comparteix-les per a fer que hi hagi sempre
+el màxim de participació possible.
 
 
 [edita-document]: img/edita-document.png "Edita un document"

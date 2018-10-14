@@ -11,10 +11,10 @@ Benvinguts al seu menú diari. Aquí podrà trobar una guia específicament diss
 - [Diumenge](diumenge.md)
 
 En aquest projecte pot:
-- [Veure un exemple](exemple.md)
+- [Veure un exemple de menú](exemple.md)
+- [Crear una nova proposta]()
 - [Debatre les propostes existents]()
 - [Votar les propostes existents]()
-- [Crear una nova proposta]()
 - [Consultar la nostra secció de preguntes i respostes]()
 - [Preguntar-nos directament els dubtes que tingui]()
 - [Accedir a la comunitat]()

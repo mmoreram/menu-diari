@@ -46,8 +46,8 @@ com es mostra a la imatge.
 
 ![Crea proposta][crea-proposta]
 
-Un cop premis el botó de Commit changes, aniràs a una pàgina específica per a
-que revisis els seguents punts
+Un cop premis el botó de Propose file change, aniràs a una pàgina específica per
+a que revisis els seguents punts
 - El títol és correcte
 - La descripció és correcte
 - Els canvis son correctes
@@ -69,4 +69,4 @@ Un cop revisar, el pas final. Trobaràs un botó on hi trobaràs escrit
 
 [edita-document]: img/edita-document.png "Edita un document"
 [crea-proposta]: img/crea-proposta.png "Crea una proposta"
-[crea-proposta]: img/crea-proposta-final.png "Crea una proposta"
+[crea-proposta-final]: img/crea-proposta-final.png "Crea una proposta"
